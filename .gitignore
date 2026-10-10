@@ -1,0 +1,27 @@
+# Ignorar archivos de texto
+*.txt
+
+# Ignorar archivos PDF
+*.pdf
+
+# Ignorar archivos Word (todas las variantes)
+*.doc
+*.docx
+*.dot
+*.dotx
+*.docm
+*.dotm
+
+# Ignorar imágenes (formatos más usados)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.webp
+
+# Ignorar archivos de Power BI
+*.pbix
+*.pbit
