@@ -1,8 +1,7 @@
 """
 Enriquecimiento simple para Power BI.
-Uso: python enriquecer_simple.py entrada.csv salida.csv
 """
-import sys
+
 import numpy as np
 import pandas as pd
 
